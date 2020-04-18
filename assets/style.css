@@ -58,3 +58,7 @@ img {
 .portfolioCard {
     margin-bottom: 25px;
 }
+
+li {
+    list-style: none;
+}
