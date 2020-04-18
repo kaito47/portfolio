@@ -38,6 +38,7 @@ body {
 
 img {
     border-radius: 50%;
+    text-align: center;
 }
 
 /* contact card */
@@ -49,8 +50,7 @@ img {
 /* about me card */
 
 .aboutmeCard {
-    margin-right: 100px;
-    margin-top: 200px;
+    float: left;
 }
 
 /* portfolio card */
