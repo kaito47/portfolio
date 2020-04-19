@@ -15,7 +15,8 @@
     border-radius: 10px 10px 10px 10px;
     -moz-border-radius: 0px 0px 10px 10px;
     -webkit-border-radius: 0px 0px 10px 10px;
-    border: 10px ridge #00000015;
+    /* border: 5px ridge #00000015;
+    border-bottom: single; */
     margin-bottom: 50px;
 }
 
@@ -30,7 +31,7 @@
 /* body background color */
 
 body {
-    background-color: cornsilk;
+    background-color: white;
     /* Border */
 }
 
@@ -38,27 +39,38 @@ body {
 
 img {
     border-radius: 50%;
-    text-align: center;
+    /* height: 10%;
+    width: 100%; */
 }
 
 /* contact card */
 
-#contactMessage {
-    text-align: center;
+#contactCard {
+    margin-top: 7%;
 }
+
+/* #contactMessage {
+    text-align: center;
+} */
 
 /* about me card */
 
-.aboutmeCard {
-    float: left;
-}
-
-/* portfolio card */
-
-.portfolioCard {
-    margin-bottom: 25px;
+#aboutmeCard {
+    background-color: whitesmoke;
+    /* portfolio card */
 }
 
 li {
     list-style: none;
+    font-size: 13px;
+    margin: 0 0 0 -0.8125em;
+    padding-left: 0;
+}
+
+.contact {
+    font-size: 1.5em;
+}
+
+#email {
+    font-size: .7em;
 }
