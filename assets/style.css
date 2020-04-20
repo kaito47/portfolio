@@ -1,26 +1,23 @@
-/* Style for navbar */
+* {
+    font-smooth: always;
+    -webkit-font-smoothing: antialiased;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004);
+}
 
 .navbar-brand {
     margin: 10px;
     font-family: 'Sen', sans-serif;
-    /* Typography */
     font-size: 33px;
     line-height: 150%;
     text-indent: 20%;
 }
 
-/* border for navbar */
-
 .navborder {
     border-radius: 10px 10px 10px 10px;
     -moz-border-radius: 0px 0px 10px 10px;
     -webkit-border-radius: 0px 0px 10px 10px;
-    /* border: 5px ridge #00000015;
-    border-bottom: single; */
     margin-bottom: 50px;
 }
-
-/* navbar links style */
 
 .nav-link {
     margin: 0px;
@@ -28,36 +25,21 @@
     font-size: 1.25em;
 }
 
-/* body background color */
-
 body {
     background-color: white;
-    /* Border */
 }
 
-/* profile pic */
-
-img {
+#profile {
     border-radius: 50%;
-    /* height: 10%;
-    width: 100%; */
 }
-
-/* contact card */
 
 #contactCard {
-    margin-top: 7%;
+    margin-top: 1%;
+    margin-bottom: 5%;
 }
-
-/* #contactMessage {
-    text-align: center;
-} */
-
-/* about me card */
 
 #aboutmeCard {
     background-color: whitesmoke;
-    /* portfolio card */
 }
 
 li {
@@ -73,4 +55,15 @@ li {
     font-size: .7em;
 }
 
+body {
+    background-image: url("https://www.nanalyze.com/app/uploads/2017/01/Brain-Computer-Interface-Teaser.jpg");
+    height: 100%;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    background-repeat: no-repeat;
+    background-color: #000000;
+    background-attachment: fixed;
+    background-position: center bottom 1%;
+    background-size: 75%;
 }
