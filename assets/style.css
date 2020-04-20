@@ -31,16 +31,23 @@ body {
 
 #profile {
     border-radius: 50%;
+    height: 50%;
+    width: auto;
+    margin-left: 20%;
 }
 
 #contactCard {
-    margin-top: 1%;
+    margin-top: 5%;
     margin-bottom: 5%;
     color: white;
 }
 
 #aboutmeCard {
     background-color: whitesmoke;
+}
+
+.aboutMe {
+    text-align: center;
 }
 
 li {
