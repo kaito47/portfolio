@@ -31,6 +31,4 @@ This is the portfolio of Kait O'Shaughnessy.
 
 NOTE: links between pages are located on the top right of the navigation bar. 
 
-The foot at the bottom of the Portfolio page allows the visitor to return to the top of the screen:
 
-![Footer](footer.png) 
