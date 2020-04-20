@@ -36,6 +36,7 @@ body {
 #contactCard {
     margin-top: 1%;
     margin-bottom: 5%;
+    color: white;
 }
 
 #aboutmeCard {
@@ -66,4 +67,17 @@ body {
     background-attachment: fixed;
     background-position: center bottom 1%;
     background-size: 75%;
+}
+
+.footer {
+    width: 100%;
+    margin-top: 5%;
+    margin-bottom: 0%;
+    position: relative;
+}
+
+#copyright {
+    text-align: center;
+    font-family: 'Sen', sans-serif;
+    font-size: 1em;
 }
