@@ -19,15 +19,15 @@ This is the portfolio of Kait O'Shaughnessy.
 
 # About Me Page:
 
-![About Me](aboutMe.png) 
+![About Me](https://github.com/kaito47/portfolio/blob/master/assets/AboutMe.png) 
 
 # Portfolio Page:
 
-![About Me](portfolio.png) 
+![About Me](https://github.com/kaito47/portfolio/blob/master/assets/Portfolio.png) 
 
 # Contact Page:
 
-![About Me](contact.png) 
+![About Me](https://github.com/kaito47/portfolio/blob/master/assets/Contact.png) 
 
 NOTE: links between pages are located on the top right of the navigation bar. 
 
